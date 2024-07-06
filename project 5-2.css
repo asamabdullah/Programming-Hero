@@ -1,0 +1,35 @@
+section{
+    background-image:url(beautiful-night-sky-background-ai-generated-photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 1058px;
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+}
+/*
+body{
+    color: aliceblue;
+}
+
+
+
+.ap , .dp , .jp {
+    text-align: center;
+}
+.kp{
+    background-color: aqua;
+}
+.hg{
+    margin-top: 25%;
+}
+
+.tui{
+    text-align: center;
+}
+*/
+p{
+    text-align: center;
+    font-size: 200px;
+}
